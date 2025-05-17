@@ -16,8 +16,8 @@ The key parameters in the model include:
 The absorption spectrum is modeled as a sum of Gaussian peaks corresponding to different vibronic transitions (0-0, 0-1, 0-2, etc.). The relative intensities of these transitions are governed by the Huang-Rhys factor and the exciton bandwidth.
 
 <div style="display: flex; gap: 40px; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/aa4be63a-1722-421f-9df0-7f6ac54a32a9" height="300" />
-  <img src="https://github.com/user-attachments/assets/8f79479c-b526-446b-b088-429700fb2c9c" height="300" />
+  <img src="https://github.com/user-attachments/assets/aa4be63a-1722-421f-9df0-7f6ac54a32a9" height="150" />
+  <img src="https://github.com/user-attachments/assets/8f79479c-b526-446b-b088-429700fb2c9c" height="150" />
 </div>
 
 
