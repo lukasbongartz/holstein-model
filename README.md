@@ -138,19 +138,6 @@ The fitted parameters provide insights into:
 2. **Molecular packing**: The exciton bandwidth W relates to intermolecular coupling strength
 3. **Conformational disorder**: The Gaussian width σ reflects energetic disorder
 
-## Citation
-
-If you use this tool in your research, please cite:
-
-```
-@software{vibronic_fitting,
-  author = {Lukas Bongartz},
-  title = {Vibronic Fitting Tool},
-  year = {2023},
-  url = {https://github.com/lukasbongartz/vibronic-fitting-example}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License.
