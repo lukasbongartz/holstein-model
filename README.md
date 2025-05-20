@@ -28,7 +28,7 @@ The absorption spectrum is modeled as a sum of Gaussian peaks corresponding to d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lukasbongartz/vibronic-fitting-example.git
+git clone https://github.com/lukasbongartz/holstein-model.git
 cd vibronic-fitting-example
 ```
 
