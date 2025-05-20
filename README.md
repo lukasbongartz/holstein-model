@@ -1,3 +1,6 @@
+![README_1](https://github.com/user-attachments/assets/d2c1e814-6852-4c31-84bf-428afcb143d1)
+
+
 # Vibronic Fitting Tool
 A Python package for analyzing and fitting vibronic transitions in spectroscopic data of polymer semiconductors.
 
