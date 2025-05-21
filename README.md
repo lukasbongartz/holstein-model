@@ -143,7 +143,7 @@ results/
 
 The fitted parameters provide insights into:
 
-1. **Electronic structure**: The E00 transition energy corresponds to the optical band gap
+1. **Electronic structure**: The E00 transition energy corresponds to the _optical_ band gap
 2. **Molecular packing**: The exciton bandwidth W relates to intermolecular coupling strength
 3. **Conformational disorder**: The Gaussian width σ reflects energetic disorder
 
